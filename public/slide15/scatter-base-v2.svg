@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" role="img" aria-label="Conceptual scatterplot with 65 fixed observations, a positive fitted trend, and Team A highlighted.">
+<path d="M130 20V390H870" fill="none" stroke="#77736e" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#34363a" font-family="Inter,Aptos,Arial,sans-serif" font-size="16" font-weight="500" text-anchor="middle"><text x="500" y="432">Shots</text><text transform="translate(48 205) rotate(-90)">Shots on Target</text></g>
+<path d="M162.45 312.76L671.89 71.38" fill="none" stroke="#c8102e" stroke-width="2.5" stroke-dasharray="9 8" stroke-linecap="round" opacity=".72"/>
+<circle cx="583.43" cy="91.38" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="437.68" cy="210.78" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="651.39" cy="77.69" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="371.41" cy="240.00" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="174.66" cy="298.52" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="627.40" cy="102.48" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="312.65" cy="245.20" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="214.97" cy="270.38" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="544.66" cy="122.82" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="331.91" cy="170.17" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="541.82" cy="122.01" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="468.33" cy="242.38" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="405.27" cy="157.36" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="162.45" cy="315.18" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="372.56" cy="186.04" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="430.27" cy="203.57" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="408.76" cy="165.43" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="226.16" cy="242.74" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="191.95" cy="304.34" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="415.77" cy="201.53" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="671.89" cy="211.65" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="423.69" cy="140.44" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="472.28" cy="263.78" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="398.18" cy="194.15" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="452.46" cy="128.79" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="181.40" cy="290.50" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="285.87" cy="249.91" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="396.89" cy="258.87" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="232.24" cy="334.99" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="597.34" cy="51.10" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="239.81" cy="313.60" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="337.46" cy="262.82" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="560.96" cy="127.60" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="391.60" cy="257.90" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="581.47" cy="83.51" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="588.00" cy="60.30" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="585.95" cy="101.59" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="345.02" cy="196.88" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="280.84" cy="341.15" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="481.41" cy="114.69" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="471.06" cy="158.84" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="347.95" cy="211.88" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="603.99" cy="142.56" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="243.36" cy="335.31" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="462.25" cy="250.58" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="617.95" cy="126.49" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="293.31" cy="160.30" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="276.85" cy="297.21" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="657.85" cy="49.03" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="477.29" cy="138.80" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="171.02" cy="338.67" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="180.09" cy="360.26" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="540.88" cy="107.08" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="331.47" cy="212.41" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="278.34" cy="181.22" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="534.27" cy="129.74" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="415.45" cy="230.53" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="458.99" cy="186.15" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="573.45" cy="98.45" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="199.37" cy="219.13" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="420.59" cy="211.05" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="599.35" cy="82.14" r="4.6" fill="#758d9d" stroke="#fbfaf7" stroke-width="1.2" opacity=".9"/>
+<circle cx="444.5" cy="164.3" r="9" fill="#34363a" stroke="#fbfaf7" stroke-width="2.6"/>
+<text x="424.5" y="149.3" text-anchor="end" font-family="Inter,Aptos,Arial,sans-serif" font-size="15" font-weight="700" fill="#34363a" stroke="#f7f5f0" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Team A</text>
+</svg>

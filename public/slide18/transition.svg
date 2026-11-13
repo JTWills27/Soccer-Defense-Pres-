@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="520" viewBox="0 0 1500 520">
+<text x="750" y="201" text-anchor="middle" font-family="Inter, Aptos, Arial, sans-serif" font-size="25" font-weight="600" fill="#34363a">Same mathematical idea</text>
+<line x1="575" y1="260" x2="925" y2="260" stroke="#c8102e" stroke-width="5" stroke-linecap="round"/>
+<path d="M925 242L956 260L925 278Z" fill="#c8102e"/>
+</svg>

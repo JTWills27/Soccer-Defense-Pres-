@@ -1,0 +1,501 @@
+{
+  "seed": 1616,
+  "description": "Fixed illustrative observations; same rows are shown before and after PCA whitening.",
+  "rawMean": [
+    18.756326009518823,
+    12.709976837427622
+  ],
+  "rawSampleCovariance": [
+    [
+      14.503536891778785,
+      8.352121615714879
+    ],
+    [
+      8.352121615714879,
+      6.455497034516233
+    ]
+  ],
+  "pcaWhitening": {
+    "principalDirectionsAsColumns": [
+      [
+        0.8467720256334968,
+        -0.5319559536320131
+      ],
+      [
+        0.5319559536320131,
+        0.8467720256334968
+      ]
+    ],
+    "sampleVariancesAlongDirections": [
+      19.75047548261643,
+      1.2085584436785872
+    ]
+  },
+  "whitenedSampleCovariance": [
+    [
+      0.9999999999999996,
+      4.343313902976931e-16
+    ],
+    [
+      4.343313902976931e-16,
+      0.999999999999998
+    ]
+  ],
+  "points": [
+    {
+      "id": 1,
+      "shots": 20.493408146298034,
+      "shotsOnTarget": 15.273352853705326,
+      "whitenedDirection1": 0.6378081846234351,
+      "whitenedDirection2": 1.1338973891856452
+    },
+    {
+      "id": 2,
+      "shots": 22.29277999827994,
+      "shotsOnTarget": 16.5075749745842,
+      "whitenedDirection1": 1.1283877572653374,
+      "whitenedDirection2": 1.2138706748773997
+    },
+    {
+      "id": 3,
+      "shots": 20.938054033411717,
+      "shotsOnTarget": 13.712679652192229,
+      "whitenedDirection1": 0.535719904345721,
+      "whitenedDirection2": -0.28337113912579615
+    },
+    {
+      "id": 4,
+      "shots": 17.484176167832185,
+      "shotsOnTarget": 12.66718811707236,
+      "whitenedDirection1": -0.2475124463778642,
+      "whitenedDirection2": 0.582615695607786
+    },
+    {
+      "id": 5,
+      "shots": 22.82497480509463,
+      "shotsOnTarget": 14.367148689024589,
+      "whitenedDirection1": 0.9735854390971806,
+      "whitenedDirection2": -0.6923172386355751
+    },
+    {
+      "id": 6,
+      "shots": 17.187571507333026,
+      "shotsOnTarget": 13.257453819582993,
+      "whitenedDirection1": -0.23337277612969576,
+      "whitenedDirection2": 1.1807913071563374
+    },
+    {
+      "id": 7,
+      "shots": 21.906152313556802,
+      "shotsOnTarget": 14.156037265874891,
+      "whitenedDirection1": 0.7732467872333023,
+      "whitenedDirection2": -0.4103220745457634
+    },
+    {
+      "id": 8,
+      "shots": 16.707898777643255,
+      "shotsOnTarget": 11.017340133756397,
+      "whitenedDirection1": -0.5929049718761382,
+      "whitenedDirection2": -0.3125538286185485
+    },
+    {
+      "id": 9,
+      "shots": 17.157030268703643,
+      "shotsOnTarget": 13.39514064635684,
+      "whitenedDirection1": -0.2227111528203105,
+      "whitenedDirection2": 1.3016232580739981
+    },
+    {
+      "id": 10,
+      "shots": 21.769957213510942,
+      "shotsOnTarget": 14.539639231650135,
+      "whitenedDirection1": 0.7932130653088513,
+      "whitenedDirection2": -0.048949284501491774
+    },
+    {
+      "id": 11,
+      "shots": 20.4486168228793,
+      "shotsOnTarget": 13.991435709432455,
+      "whitenedDirection1": 0.47583089255660316,
+      "whitenedDirection2": 0.16817234511131676
+    },
+    {
+      "id": 12,
+      "shots": 15.513800797974334,
+      "shotsOnTarget": 9.86249243261615,
+      "whitenedDirection1": -0.9586569419055602,
+      "whitenedDirection2": -0.6242715672581024
+    },
+    {
+      "id": 13,
+      "shots": 25.886220585520253,
+      "shotsOnTarget": 17.249867865208444,
+      "whitenedDirection1": 1.9019196008690415,
+      "whitenedDirection2": 0.046812305741837076
+    },
+    {
+      "id": 14,
+      "shots": 15.078172981589795,
+      "shotsOnTarget": 11.136432926008194,
+      "whitenedDirection1": -0.889171723676775,
+      "whitenedDirection2": 0.5677768950882084
+    },
+    {
+      "id": 15,
+      "shots": 22.86629518267156,
+      "shotsOnTarget": 14.328851556943725,
+      "whitenedDirection1": 0.9768743807591134,
+      "whitenedDirection2": -0.7418099667115532
+    },
+    {
+      "id": 16,
+      "shots": 17.961721457271477,
+      "shotsOnTarget": 12.034229337062524,
+      "whitenedDirection1": -0.23228663493660587,
+      "whitenedDirection2": -0.13599872496614557
+    },
+    {
+      "id": 17,
+      "shots": 11.959204825448266,
+      "shotsOnTarget": 11.108039157166422,
+      "whitenedDirection1": -1.4868470489685035,
+      "whitenedDirection2": 2.0551273603645672
+    },
+    {
+      "id": 18,
+      "shots": 20.09309124890388,
+      "shotsOnTarget": 12.778138778100063,
+      "whitenedDirection1": 0.26286114882861566,
+      "whitenedDirection2": -0.5943383282578366
+    },
+    {
+      "id": 19,
+      "shots": 20.034397810249022,
+      "shotsOnTarget": 13.740019358165213,
+      "whitenedDirection1": 0.36681310051636956,
+      "whitenedDirection2": 0.17495269147658707
+    },
+    {
+      "id": 20,
+      "shots": 20.645373805492817,
+      "shotsOnTarget": 15.391362046574876,
+      "whitenedDirection1": 0.680888623279059,
+      "whitenedDirection2": 1.1512603224909066
+    },
+    {
+      "id": 21,
+      "shots": 16.40608912915343,
+      "shotsOnTarget": 12.156529977370893,
+      "whitenedDirection1": -0.5140519186075899,
+      "whitenedDirection2": 0.7109501574107054
+    },
+    {
+      "id": 22,
+      "shots": 15.254085569777676,
+      "shotsOnTarget": 8.832823565972381,
+      "whitenedDirection1": -1.1313914247853138,
+      "whitenedDirection2": -1.2917035646405002
+    },
+    {
+      "id": 23,
+      "shots": 15.258127181338736,
+      "shotsOnTarget": 11.476580942049178,
+      "whitenedDirection1": -0.8141688791133479,
+      "whitenedDirection2": 0.7426994125986583
+    },
+    {
+      "id": 24,
+      "shots": 24.955368055120815,
+      "shotsOnTarget": 17.4106319041265,
+      "whitenedDirection1": 1.743801539206873,
+      "whitenedDirection2": 0.6210663331272134
+    },
+    {
+      "id": 25,
+      "shots": 23.29614956095749,
+      "shotsOnTarget": 15.387265417553346,
+      "whitenedDirection1": 1.1854672658490721,
+      "whitenedDirection2": -0.13456481153194497
+    },
+    {
+      "id": 26,
+      "shots": 23.38007528834703,
+      "shotsOnTarget": 16.174551031647578,
+      "whitenedDirection1": 1.295694677204772,
+      "whitenedDirection2": 0.4312329111248369
+    },
+    {
+      "id": 27,
+      "shots": 10.490607060421974,
+      "shotsOnTarget": 9.846872130725231,
+      "whitenedDirection1": -1.9176274027299947,
+      "whitenedDirection2": 1.7943432116976514
+    },
+    {
+      "id": 28,
+      "shots": 21.84833408954105,
+      "shotsOnTarget": 16.37408006802012,
+      "whitenedDirection1": 1.0277256054801072,
+      "whitenedDirection2": 1.3261065472165792
+    },
+    {
+      "id": 29,
+      "shots": 21.82989273189908,
+      "shotsOnTarget": 13.635276597623822,
+      "whitenedDirection1": 0.6963825580350094,
+      "whitenedDirection2": -0.7745380310151986
+    },
+    {
+      "id": 30,
+      "shots": 19.69780140303453,
+      "shotsOnTarget": 13.817732451943487,
+      "whitenedDirection1": 0.3119813689076395,
+      "whitenedDirection2": 0.39768516985571617
+    },
+    {
+      "id": 31,
+      "shots": 16.61250606895763,
+      "shotsOnTarget": 10.37246062076672,
+      "whitenedDirection1": -0.6882715338299361,
+      "whitenedDirection2": -0.7631143115468787
+    },
+    {
+      "id": 32,
+      "shots": 17.37561814519658,
+      "shotsOnTarget": 11.269076806881557,
+      "whitenedDirection1": -0.4355478186283583,
+      "whitenedDirection2": -0.4417523770246543
+    },
+    {
+      "id": 33,
+      "shots": 21.838550499880835,
+      "shotsOnTarget": 13.718666175971823,
+      "whitenedDirection1": 0.7080137428988197,
+      "whitenedDirection2": -0.7144964263695722
+    },
+    {
+      "id": 34,
+      "shots": 13.69040628996024,
+      "shotsOnTarget": 9.75063664947405,
+      "whitenedDirection1": -1.3194686959524486,
+      "whitenedDirection2": 0.1718839372344638
+    },
+    {
+      "id": 35,
+      "shots": 19.191320394901968,
+      "shotsOnTarget": 12.914243902540713,
+      "whitenedDirection1": 0.1073325793847089,
+      "whitenedDirection2": -0.05315004882391265
+    },
+    {
+      "id": 36,
+      "shots": 8.269029701082829,
+      "shotsOnTarget": 4.143576199507212,
+      "whitenedDirection1": -3.0235916495858466,
+      "whitenedDirection2": -1.5236430734733737
+    },
+    {
+      "id": 37,
+      "shots": 17.45506675830076,
+      "shotsOnTarget": 14.072682915031194,
+      "whitenedDirection1": -0.0848239283674454,
+      "whitenedDirection2": 1.6792860695727991
+    },
+    {
+      "id": 38,
+      "shots": 15.03780960175312,
+      "shotsOnTarget": 9.963602016512624,
+      "whitenedDirection1": -1.0372479275681885,
+      "whitenedDirection2": -0.316066903575898
+    },
+    {
+      "id": 39,
+      "shots": 15.303571305895852,
+      "shotsOnTarget": 11.10026629165667,
+      "whitenedDirection1": -0.8505542350721511,
+      "whitenedDirection2": 0.43085269372623086
+    },
+    {
+      "id": 40,
+      "shots": 27.494752111551556,
+      "shotsOnTarget": 16.990869916255416,
+      "whitenedDirection1": 2.1774017073785203,
+      "whitenedDirection2": -0.9310250228187649
+    },
+    {
+      "id": 41,
+      "shots": 16.79466595868798,
+      "shotsOnTarget": 10.245110190267278,
+      "whitenedDirection1": -0.6688070545919843,
+      "whitenedDirection2": -0.9493505734268297
+    },
+    {
+      "id": 42,
+      "shots": 16.535096020669172,
+      "shotsOnTarget": 11.49173286115984,
+      "whitenedDirection1": -0.5690463086131735,
+      "whitenedDirection2": 0.13646458446738596
+    },
+    {
+      "id": 43,
+      "shots": 10.325643644685291,
+      "shotsOnTarget": 7.288095880725628,
+      "whitenedDirection1": -2.255339322454683,
+      "whitenedDirection2": -0.0967353166191746
+    },
+    {
+      "id": 44,
+      "shots": 16.055075303843967,
+      "shotsOnTarget": 9.92729545192535,
+      "whitenedDirection1": -0.8477677091853558,
+      "whitenedDirection2": -0.8362713553382969
+    },
+    {
+      "id": 45,
+      "shots": 15.725229500628773,
+      "shotsOnTarget": 9.128911393284234,
+      "whitenedDirection1": -1.006180283163002,
+      "whitenedDirection2": -1.2916207241294932
+    },
+    {
+      "id": 46,
+      "shots": 23.040840004898897,
+      "shotsOnTarget": 14.029844531550177,
+      "whitenedDirection1": 0.9743409620243034,
+      "whitenedDirection2": -1.0565802008013274
+    },
+    {
+      "id": 47,
+      "shots": 14.80891712316738,
+      "shotsOnTarget": 10.709426169825814,
+      "whitenedDirection1": -0.9915865932717615,
+      "whitenedDirection2": 0.36916298593066743
+    },
+    {
+      "id": 48,
+      "shots": 18.379050514642678,
+      "shotsOnTarget": 13.786313731441892,
+      "whitenedDirection1": 0.05695069782874074,
+      "whitenedDirection2": 1.0116081585137089
+    },
+    {
+      "id": 49,
+      "shots": 20.363153617232996,
+      "shotsOnTarget": 12.626083420074469,
+      "whitenedDirection1": 0.2961171105471816,
+      "whitenedDirection2": -0.8421382630011149
+    },
+    {
+      "id": 50,
+      "shots": 20.568601160952774,
+      "shotsOnTarget": 11.06517005224485,
+      "whitenedDirection1": 0.14842411585930432,
+      "whitenedDirection2": -2.1438473731707357
+    },
+    {
+      "id": 51,
+      "shots": 20.24771620095999,
+      "shotsOnTarget": 15.919906089844979,
+      "whitenedDirection1": 0.6683860804038416,
+      "whitenedDirection2": 1.7507926886508127
+    },
+    {
+      "id": 52,
+      "shots": 20.263895908403832,
+      "shotsOnTarget": 11.420913555689332,
+      "whitenedDirection1": 0.13294849095933495,
+      "whitenedDirection2": -1.7223931353387354
+    },
+    {
+      "id": 53,
+      "shots": 22.663734728137907,
+      "shotsOnTarget": 15.401568996300348,
+      "whitenedDirection1": 1.066681394199251,
+      "whitenedDirection2": 0.18246837451241116
+    },
+    {
+      "id": 54,
+      "shots": 22.202328730133083,
+      "shotsOnTarget": 15.099879758111289,
+      "whitenedDirection1": 0.9426552045750218,
+      "whitenedDirection2": 0.17335900144447516
+    },
+    {
+      "id": 55,
+      "shots": 12.063395348042011,
+      "shotsOnTarget": 9.333371610821564,
+      "whitenedDirection1": -1.679419129455607,
+      "whitenedDirection2": 0.637770445982716
+    },
+    {
+      "id": 56,
+      "shots": 22.128176883331086,
+      "shotsOnTarget": 15.04842758174843,
+      "whitenedDirection1": 0.9223678635140841,
+      "whitenedDirection2": 0.16960881483012535
+    },
+    {
+      "id": 57,
+      "shots": 21.224938325833193,
+      "shotsOnTarget": 9.996272345192128,
+      "whitenedDirection1": 0.14553525152049746,
+      "whitenedDirection2": -3.284759143675585
+    },
+    {
+      "id": 58,
+      "shots": 17.0622334622755,
+      "shotsOnTarget": 12.714256325824163,
+      "whitenedDirection1": -0.32227387723820755,
+      "whitenedDirection2": 0.8230416624584861
+    },
+    {
+      "id": 59,
+      "shots": 19.720886454072296,
+      "shotsOnTarget": 13.874357747452565,
+      "whitenedDirection1": 0.32315784374076395,
+      "whitenedDirection2": 0.4301303989523714
+    },
+    {
+      "id": 60,
+      "shots": 19.96115860589956,
+      "shotsOnTarget": 12.420754648912547,
+      "whitenedDirection1": 0.1949450256588626,
+      "whitenedDirection2": -0.8057738856415692
+    },
+    {
+      "id": 61,
+      "shots": 17.555312454090966,
+      "shotsOnTarget": 11.658676332471066,
+      "whitenedDirection1": -0.35467524588722216,
+      "whitenedDirection2": -0.22861399231608412
+    },
+    {
+      "id": 62,
+      "shots": 21.843189931460127,
+      "shotsOnTarget": 15.921397697600575,
+      "whitenedDirection1": 0.972560281997817,
+      "whitenedDirection2": 0.9799163545137648
+    },
+    {
+      "id": 63,
+      "shots": 20.5060122367097,
+      "shotsOnTarget": 12.308519105175689,
+      "whitenedDirection1": 0.2853250495733104,
+      "whitenedDirection2": -1.1558698140186374
+    },
+    {
+      "id": 64,
+      "shots": 15.774488482970764,
+      "shotsOnTarget": 12.083698267910906,
+      "whitenedDirection1": -0.6431125779285587,
+      "whitenedDirection2": 0.9604732659245133
+    },
+    {
+      "id": 65,
+      "shots": 19.41339032025585,
+      "shotsOnTarget": 12.72566055453148,
+      "whitenedDirection1": 0.12707191129119574,
+      "whitenedDirection2": -0.30586292400216747
+    }
+  ]
+}
