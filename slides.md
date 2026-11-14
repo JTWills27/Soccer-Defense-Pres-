@@ -2266,3 +2266,7 @@ class: final-qa
   .final-qa-project { font-size:1.3rem; }
 }
 </style>
+
+---
+src: ./pages/rigor-faq.md
+---
